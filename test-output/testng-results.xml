@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-01T13:52:08 IST" name="Default suite" finished-at="2024-02-01T13:52:26 IST" duration-ms="17603">
+    <groups>
+    </groups>
+    <test started-at="2024-02-01T13:52:08 IST" name="Default test" finished-at="2024-02-01T13:52:26 IST" duration-ms="17603">
+      <class name="testScripts.AddCourseText">
+        <test-method is-config="true" signature="classSetup()[pri:0, instance:testScripts.AddCourseText@738dc9b]" started-at="2024-02-01T13:52:08 IST" name="classSetup" finished-at="2024-02-01T13:52:10 IST" duration-ms="1895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classSetup -->
+        <test-method is-config="true" signature="methodSetup()[pri:0, instance:testScripts.AddCourseText@738dc9b]" started-at="2024-02-01T13:52:10 IST" name="methodSetup" finished-at="2024-02-01T13:52:16 IST" duration-ms="5760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetup -->
+        <test-method signature="addCourseTest()[pri:0, instance:testScripts.AddCourseText@738dc9b]" started-at="2024-02-01T13:52:16 IST" name="addCourseTest" finished-at="2024-02-01T13:52:25 IST" duration-ms="9488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCourseTest -->
+        <test-method is-config="true" signature="methodTearDown()[pri:0, instance:testScripts.AddCourseText@738dc9b]" started-at="2024-02-01T13:52:25 IST" name="methodTearDown" finished-at="2024-02-01T13:52:26 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTearDown -->
+        <test-method is-config="true" signature="classTeardown()[pri:0, instance:testScripts.AddCourseText@738dc9b]" started-at="2024-02-01T13:52:26 IST" name="classTeardown" finished-at="2024-02-01T13:52:26 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTeardown -->
+      </class> <!-- testScripts.AddCourseText -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
